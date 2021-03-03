@@ -1,0 +1,18 @@
+Login as a different user using SSH: ssh <user>@<host>
+
+Repeat back to the user: echo
+
+Using flags: <command> <flag> <input>
+
+A command that lists information about files: ls
+
+Outputs contents of a file to the terminal: cat <file>
+
+Creates a new file: touch <name>
+
+Running a binary for absolute paths: /tmp/<path>
+
+Find a file in your home directory: ~/
+
+Change user on current computer: su <user>
+
